@@ -1,0 +1,8 @@
+.env
+credentials.json
+token.json
+contacts.csv
+drafts.csv
+me.md
+__pycache__/
+*.egg-info/

@@ -1,0 +1,3 @@
+name,linkedin_url,company,title,mit_program,grad_year,past_employers,notes,target_role,email
+Jane Doe,https://www.linkedin.com/in/janedoe,Stripe,Product Manager,MIT Sloan MBA,2019,McKinsey; Google,Wrote a post on payments infrastructure for marketplaces,Product Manager,jane@example.com
+Sam Lee,https://www.linkedin.com/in/samlee,Acme Corp,Engineer,,,Acme Corp,,Product Manager,
