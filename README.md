@@ -4,6 +4,9 @@ Drafts personalized LinkedIn connection notes and short emails from `contacts.cs
 
 ## Setup
 
+For reusable cloud installation, validation results, and deployment steps, see
+[Cloud setup and deployment](docs/CLOUD_SETUP.md).
+
 ```bash
 pip install -e .            # installs the `outreach` command (or: pip install -r requirements.txt; python outreach.py ...)
 cp .env.example .env        # add your ANTHROPIC_API_KEY
